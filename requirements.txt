@@ -1,0 +1,10 @@
+ultralytics==8.3.167
+pyclesperanto-prototype==0.24.5
+scikit-image==0.25.2
+scipy==1.16.0
+numpy==1.26.4
+opencv-python==4.10.0
+matplotlib==3.10.1
+pillow==11.1.0
+tqdm==4.67.1
+torch==2.5.1+cu124
