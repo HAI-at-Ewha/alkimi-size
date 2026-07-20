@@ -68,7 +68,7 @@ Applies GPU-accelerated Voronoi-Otsu labeling via pyclesperanto to segment the d
 
 ### Segmentation & Body-Area Measurement
 <p align="center">
-  <img src="assets/sample_segmentation.png" width="80%" alt="Voronoi-Otsu Segmentation Result"/>
+  <img src="assets/sample_segmentation_adult.jpg" width="80%" alt="Voronoi-Otsu Segmentation Result"/>
 </p>
 
 ## ⚖ License
